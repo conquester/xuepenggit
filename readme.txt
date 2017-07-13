@@ -1,3 +1,3 @@
 hello world!
 hello git!
-学习使我快乐/
+学习，加油学习
